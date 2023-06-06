@@ -1,0 +1,42 @@
+.similar-job-container {
+  list-style: none;
+  margin-bottom: 30px;
+  background-color: #272727;
+  margin-right: 30px;
+  padding: 30px;
+  margin-top: 20px;
+  border-radius: 15px;
+  padding-right: 50px;
+}
+.similar-img-text-card {
+  display: flex;
+}
+.similar-text-card {
+  display: flex;
+}
+.similar-company-img {
+  height: 60px;
+  width: 50px;
+  margin-right: 20px;
+}
+.similar-job-heading {
+  font-size: 18px;
+  color: #ffffff;
+  font-family: 'roboto';
+}
+.similar-job-paragraph {
+  font-size: 12px;
+  color: #ffffff;
+  font-family: 'roboto';
+}
+.similar-job-descrit {
+  font-size: 18px;
+  color: #cbd5e1;
+  font-family: 'roboto';
+}
+.similar-job-text {
+  ont-size: 14px;
+  color: #ffffff;
+  font-family: 'roboto';
+  margin-right: 30px;
+}

@@ -1,0 +1,54 @@
+.profile-card {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-repeat: no-repeat;
+  background-size: 250px;
+  padding: 10px;
+  margin-top: 40px;
+}
+.profile-heading {
+  font-size: 18px;
+  color: #6366f1;
+  font-family: 'roboto';
+}
+.profile-para {
+  color: #2c364c;
+  font-size: 12px;
+  font-family: 'roboto';
+}
+.jobs-container {
+  padding-left: 20px;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+}
+.profile-img {
+  height: 40px;
+  width: 40px;
+}
+.search-input-all-jobs-data-card {
+  margin-left: 0px;
+}
+.search-input {
+  margin-top: 60px;
+  margin-left: 40px;
+  width: 300px;
+  height: 30px;
+  background-color: transparent;
+  border: 2px solid #475569;
+  border-radius: 5px;
+  border-right: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  color: #fff;
+}
+.search-btn {
+  background-color: transparent;
+  border: 2px solid #475569;
+  border-radius: 5px;
+  height: 30px;
+  border-left: 0px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  cursor: pointer;
+}

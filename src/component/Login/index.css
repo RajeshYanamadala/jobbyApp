@@ -1,0 +1,57 @@
+.app-container {
+  background-color: black;
+  min-height: 100vh;
+}
+.input {
+  height: 30px;
+  width: 250px;
+  margin-bottom: 20px;
+  background-color: transparent;
+  border: #64748b solid 1px;
+  color: #fff;
+}
+.app-input-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.website-logo {
+  width: 100px;
+  margin-bottom: 20px;
+}
+.app-input-content {
+  background-color: #272727;
+  padding: 40px;
+  padding-left: 70px;
+  padding-right: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.input-card {
+  display: flex;
+  flex-direction: column;
+}
+.label-input {
+  font-size: 12px;
+  color: #fff;
+  margin-bottom: 10px;
+  font-family: 'roboto';
+}
+.btn {
+  width: 250px;
+  height: 30px;
+  background-color: #4f46e5;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+}
+.error-msg {
+  font-size: 14px;
+  color: red;
+  font-family: 'roboto';
+}

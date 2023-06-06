@@ -1,0 +1,132 @@
+.job-details-container {
+  background-color: #121212;
+  padding-right: 140px;
+  padding-left: 140px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.job-details-list-card {
+  background-color: #343232;
+  padding: 30px;
+  list-style: none;
+  border-radius: 20px;
+  margin-top: 40px;
+}
+.job-img-title-rating-card {
+  display: flex;
+  flex-direction: row;
+}
+.title-rating-card {
+  margin-top: -12px;
+}
+.location-employment-package-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.location-employment-card {
+  display: flex;
+}
+.job-details-image {
+  height: 60px;
+  width: 50px;
+  margin-right: 30px;
+}
+.job-details-title {
+  font-size: 24px;
+  font-family: 'roboto';
+  color: #fff;
+}
+.job-details-rating {
+  font-size: 14px;
+  font-family: 'roboto';
+  color: #fff;
+}
+.job-details-location {
+  font-size: 14px;
+  font-family: 'roboto';
+  color: #fff;
+  margin-right: 20px;
+}
+.job-details-type {
+  font-size: 14px;
+  font-family: 'roboto';
+  color: #fff;
+}
+.job-details-package {
+  font-size: 14px;
+  font-family: 'roboto';
+  color: #fff;
+  margin-right: 30px;
+}
+.job-details-heading {
+  font-size: 20px;
+  font-family: 'roboto';
+  color: #fff;
+}
+.job-details-paragraph {
+  font-size: 16px;
+  font-family: 'roboto';
+  color: #cbd5e1;
+  margin-top: 0px;
+}
+.skill-unorder-list-container {
+  display: flex;
+  width: 70vw;
+  flex-wrap: wrap;
+}
+.list-skill-card {
+  margin-right: 20px;
+  list-style: none;
+  display: flex;
+  margin-bottom: 30px;
+  margin-left: -40px;
+}
+.skill-img {
+  height: 50px;
+  width: 50px;
+  margin-right: 30px;
+}
+.skill-name {
+  font-size: 18px;
+  font-family: 'roboto';
+  color: #cbd5e1;
+  margin-right: 40px;
+}
+.life-of-details-list-card {
+  display: flex;
+  flex-direction: row;
+}
+.life-of-company-paragraph {
+  font-size: 18px;
+  color: #cbd5e1;
+  font-family: 'roboto';
+  margin-left: -40px;
+  margin-right: 40px;
+  margin-top: 0px;
+}
+.skill-heading {
+  font-size: 18px;
+  font-family: 'roboto';
+  color: #fff;
+}
+.life-of-heading {
+  font-size: 18px;
+  font-family: 'roboto';
+  color: #fff;
+}
+.descript-visit-link-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.visit-anchor-element {
+  color: blue;
+  font-size: 18px;
+  font-family: 'roboto';
+  margin-right: 50px;
+}
+.similar-job-unorder-list-card {
+  display: flex;
+}

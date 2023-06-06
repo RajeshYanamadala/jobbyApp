@@ -1,0 +1,29 @@
+.employment-card {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
+.check-box-input {
+  margin-right: 15px;
+  width: 18px;
+  color: #fff;
+}
+.employment-label {
+  font-size: 16px;
+  font-family: 'roboto';
+  color: #fff;
+}
+.employment-heading {
+  font-size: 18px;
+  color: #fff;
+  font-family: 'roboto';
+  font-weight: 400;
+}
+.salary-label {
+  font-size: 16px;
+  font-family: 'roboto';
+  color: #fff;
+}
+.employment-container {
+  width: 250px;
+}
